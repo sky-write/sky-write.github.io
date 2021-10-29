@@ -19,13 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: AR Social Messaging
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   ARMessaging will allow a sender to select an appropriate message (eg Happy Birthday, Merry Christmas etc) to a postcode. The message will appear in augmented reality 100ft above the ground. Those with the app/service will be notified that a message exists in a nearby postcode.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  spe_uob
+github_username:  spe-uob
 
 # Build settings
 theme: minima
