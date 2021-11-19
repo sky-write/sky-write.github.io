@@ -5,4 +5,4 @@ date:   2021-10-29 12:23:07 +0100
 ---
 We are really excited to begin working on this project.
 
-![useful image]({{site.url}}/assets/image.jpg)
+![useful image](sky-write.github.io/assets/image.jpeg)
