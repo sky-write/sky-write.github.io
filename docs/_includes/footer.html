@@ -17,7 +17,7 @@
       {%- endif %}
       </div>
       <div class="footer-col">
-        <p>{{ site.title }} by {{ site.team }}</p>
+        <p>{{ site.title | escape }} by {{ site.team | escape }}</p>
       </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
