@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AR Social Messaging
+title: Sky Write
 description: >- # this means to ignore newlines until "baseurl:"
-  ARMessaging will allow a sender to select an appropriate message (eg Happy Birthday, Merry Christmas etc) to a postcode. The message will appear in augmented reality 100ft above the ground. Those with the app/service will be notified that a message exists in a nearby postcode.
+  Sky Write will allow a sender to select an appropriate message (eg Happy Birthday, Merry Christmas etc) to a postcode. The message will appear in augmented reality 100ft above the ground. Those with the app/service will be notified that a message exists in a nearby postcode.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  spe-uob
