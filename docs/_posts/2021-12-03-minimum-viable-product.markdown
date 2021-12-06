@@ -37,12 +37,12 @@ As a [role], I want to [action], so that [benefit]
 
 The following three user stories will be implimented in the Minumum Viable Product (MVP):
  
-    1. As a user, I want to save pictures of AR messages, so that I can view them later.
+1. As a user, I want to save pictures of AR messages, so that I can view them later.
 
 Additional user stories:
 
-    1. As a user, I want to change the text size of the app, so that I can easily read any text.
-    2. As a user, I want to use this app on my Android device.
-    3. As a user, I want to send AR messages to friends and family, so that I can communicate with them in a unique way.
-    4. As a user, I want to be able to change my notification preferences, so that I don’t receive unwanted notifications.
-    5. As a user, I want to receive AR messages from friends and family, so that they can communicate with me in a unique way.
+1. As a user, I want to change the text size of the app, so that I can easily read any text.
+2. As a user, I want to use this app on my Android device.
+3. As a user, I want to send AR messages to friends and family, so that I can communicate with them in a unique way.
+4. As a user, I want to be able to change my notification preferences, so that I don’t receive unwanted notifications.
+5. As a user, I want to receive AR messages from friends and family, so that they can communicate with me in a unique way.
