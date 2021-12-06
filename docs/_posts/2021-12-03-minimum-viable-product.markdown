@@ -46,12 +46,6 @@ Additional user stories:
 3. As a user, I want to be able to change my notification preferences, so that I don’t receive unwanted notifications.
 4. As a user, I want to receive AR messages from friends and family, so that they can communicate with me in a unique way.
 
-Sequence Diagram:
-
-Retrieve all message
-Add a banner
-Retrieve all banners
-
 ## Response from Client ##
 > In terms of suggestions for evolution - of course we spoke of incorporating Watson Speech to Text - so users can select the type of message they want - and then choose the particular message from the returned options.
 >
