@@ -56,9 +56,9 @@ Retrieve all banners
 
 ## Response from Client ##
 > In terms of suggestions for evolution - of course we spoke of incorporating Watson Speech to Text - so users can select the type of message they want - and then choose the particular message from the returned options.
- 
+>
 > Also maybe it might be worth looking into if its possible to make the messages more animated :)
- 
+>
 > And lastly - would it be possible to add a Text to Speech component so that Watson reads out the message as you pass through the notification range. 
- 
+>
 > Wonderful work folks!
