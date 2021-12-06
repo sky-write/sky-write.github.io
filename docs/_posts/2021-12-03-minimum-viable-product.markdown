@@ -33,20 +33,18 @@ The Message fragment is currently is not fully implemented but users will be abl
 The Settings fragment is not implemented but in the future the user can change the settings such as theme and how frequently to update the messages.
 
 ## User Stories ##
-
-As a [role], I want to [action], so that [benefit]
-
-The following three user stories will be implemented in the Minumum Viable Product (MVP):
+The following three user stories have been implemented in the Minumum Viable Product (MVP):
  
-1. As a user, I want to save pictures of AR messages, so that I can view them later.
+1. As a user, I want to use this app on my Android device.
+2. As a user, I want to save pictures of AR messages, so that I can view them later.
+3. As a user, I want to see a message 100ft up from the ground.
 
 Additional user stories:
 
 1. As a user, I want to change the text size of the app, so that I can easily read any text.
-2. As a user, I want to use this app on my Android device.
-3. As a user, I want to send AR messages to friends and family, so that I can communicate with them in a unique way.
-4. As a user, I want to be able to change my notification preferences, so that I don’t receive unwanted notifications.
-5. As a user, I want to receive AR messages from friends and family, so that they can communicate with me in a unique way.
+2. As a user, I want to send AR messages to friends and family, so that I can communicate with them in a unique way.
+3. As a user, I want to be able to change my notification preferences, so that I don’t receive unwanted notifications.
+4. As a user, I want to receive AR messages from friends and family, so that they can communicate with me in a unique way.
 
 Sequence Diagram:
 
@@ -63,4 +61,4 @@ Retrieve all banners
 >
 > Wonderful work folks!
 
-John McNamara
+\- John McNamara
