@@ -46,3 +46,9 @@ Additional user stories:
 3. As a user, I want to send AR messages to friends and family, so that I can communicate with them in a unique way.
 4. As a user, I want to be able to change my notification preferences, so that I don’t receive unwanted notifications.
 5. As a user, I want to receive AR messages from friends and family, so that they can communicate with me in a unique way.
+
+Sequence Diagram:
+
+Retrieve all message
+Add a banner
+Retrieve all banners
