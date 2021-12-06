@@ -62,4 +62,5 @@ Retrieve all banners
 > And lastly - would it be possible to add a Text to Speech component so that Watson reads out the message as you pass through the notification range. 
 >
 > Wonderful work folks!
+
 John McNamara
