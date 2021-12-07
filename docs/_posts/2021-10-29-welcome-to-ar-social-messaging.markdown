@@ -15,4 +15,4 @@ And here is our current version of the logo:
 
 After some brainstorming, we have decided to call our app SkyWrite.
 
-We hope you enjoy following the development of SkyWrite
+We are excited to work on this project and we hope you enjoy the development process.
