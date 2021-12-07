@@ -47,6 +47,12 @@ Additional user stories:
 4. As a user, I want to receive AR messages from friends and family, so that they can communicate with me in a unique way.
 
 ## Response from Client ##
+> Wow - what a sensational job you folks have done. Its *FANTASTIC!*  Loving your work!
+>  
+> Kudos - am super impressed that you have done so much - in so little time. 
+> 
+> Congrats!!
+
 > In terms of suggestions for evolution - of course we spoke of incorporating Watson Speech to Text - so users can select the type of message they want - and then choose the particular message from the returned options.
 >
 > Also maybe it might be worth looking into if its possible to make the messages more animated :)
