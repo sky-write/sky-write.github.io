@@ -33,7 +33,7 @@ The Message fragment is currently is not fully implemented but users will be abl
 The Settings fragment is not implemented but in the future the user can change the settings such as theme and how frequently to update the messages.
 
 ## User Stories ##
-The following three user stories have been implemented in the Minumum Viable Product (MVP):
+The following three user stories have been implemented in the Minimum Viable Product (MVP):
  
 1. As a user, I want to use this app on my Android device.
 2. As a user, I want to save pictures of AR messages, so that I can view them later.
