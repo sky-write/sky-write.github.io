@@ -6,13 +6,13 @@ permalink: /docs/
 
 ## Solution Architecture ##
 
-The solution has a simple architecture, only requiring mobile clients to connect to an IBM hosted cloud retrieve data when neccesary. The following architecture diagram depicts this relationship:
+The solution has a simple architecture, only requiring mobile clients to connect to an IBM hosted cloud retrieve data when necessary. The following architecture diagram depicts this relationship:
 
 ![Solution Architecture](/assets/architecture.png)
 
 ## App Design ##
 
-The app consists of 4 fragments that represent different screens within the app. Each fragment class has an associated class that inherits from the ViewModel. The ViewModel class is built into the Andriod SDK and is responsible for storing and displaying UI-related data. The HomeFragment is the screen where the AR messages can be viewed, therefore, it must implement the SampleRender.Renderer interface. The SampleRender.Renderer interface comes from the AR Core library and, when implemented, allows AR messages to be displayed using the phone's camera. 
+The app consists of 4 fragments that represent different screens within the app. Each fragment class has an associated class that inherits from the ViewModel. The ViewModel class is built into the Android SDK and is responsible for storing and displaying UI-related data. The HomeFragment is the screen where the AR messages can be viewed, therefore, it must implement the SampleRender.Renderer interface. The SampleRender.Renderer interface comes from the AR Core library and, when implemented, allows AR messages to be displayed using the phone's camera. 
 
 The diagram below shows the relationships between the classes. For brevity, some of the classes do not contain attributes as there are too many to display.
 
