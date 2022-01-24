@@ -4,11 +4,14 @@ title: Documentation
 permalink: /docs/
 ---
 
-  Here is the documentation for ARSocialMessaging
+Here is the documentation for ARSocialMessaging
 
+**App Design**
 
-Sequence Diagram:
+![App class diagram](/assets/App-class-diagram.png)
 
-Retrieve all message
-Add a banner
-Retrieve all banners
+**Database Design**
+
+![Database design diagram](/assets/DB-design.png)
+
+![Database sequence diagram](/assets/DB-sequence.drawio.png)
