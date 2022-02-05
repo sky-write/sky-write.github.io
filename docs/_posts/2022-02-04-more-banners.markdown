@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "Minimum Viable Product"
+title:  "More Banners!"
 date:   2021-12-03 09:20:46 +0000
 ---
 Hello everyone.
 
-We are now working towards our beta release of Sky Write!
-
-One major development is the creation of more banners.
+We are now working towards our beta release of Sky Write! One major development is the creation of more banners.
 
 ## Happy Birthday ##
 
@@ -26,3 +24,5 @@ One major development is the creation of more banners.
 
 ## Thank You ##
 
+![thank you banner](/assets/thank-you.png)
+*Let someone know that you appriciate what they have done for you*
