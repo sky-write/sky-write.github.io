@@ -22,7 +22,7 @@ The diagram below shows the relationships between the classes. For brevity, some
 
 A database is required to store data about messages and banners. Messages contain an id, a message to be displayed when sent, and an object file name which is where the data for 3D model is stored. Each banner represents a message which has been sent to a specific postcode. A banner contains an id, a postcode, a messageId, and a timestamp of when it was created. Below is a diagram that shows the relationship between banners and messages:
 
-![Database design diagram](/assets/DB-design.png)
+![Database design diagram](/assets/DB-design.jpeg)
 
 Below is a sequence diagram of an example interaction between the mobile app and the database.
 
