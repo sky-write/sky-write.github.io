@@ -26,4 +26,4 @@ A database is required to store data about messages and banners. Messages contai
 
 Below is a sequence diagram of an example interaction between the mobile app and the database.
 
-![Database sequence diagram](/assets/DB-sequence.drawio.png)
+![Database sequence diagram](/assets/sequence.png)
