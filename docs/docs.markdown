@@ -6,7 +6,7 @@ permalink: /docs/
 
 ## Solution Architecture ##
 
-The solution has a simple architecture, only requiring mobile clients to connect to an IBM hosted cloud retrieve data when necessary. The following architecture diagram depicts this relationship:
+The solution has a simple architecture, requiring mobile clients to connect to an IBM hosted cloud retrieve data when necessary and the IBM cloud to use a Firebase Messaging Service to send notifications. The following architecture diagram depicts this relationship:
 
 ![Solution Architecture](/assets/architecture.png)
 
@@ -20,10 +20,10 @@ The diagram below shows the relationships between the classes. For brevity, some
 
 ## Database Design ##
 
-A database is required to store data about messages and banners. Messages contain an id, a message to be displayed when sent, and an object file name which is where the data for 3D model is stored. Each banner represents a message which has been sent to a specific postcode. A banner contains an id, a postcode, a messageId, and a timestamp of when it was created. Below is a diagram that shows the relationship between banners and messages:
+A database is required to store data about messages and banners. Messages contain an id, a message to be displayed when sent, and an object file name which is where the data for 3D model is stored. Each banner represents a message which has been sent to a specific postcode. A banner contains a postcode, a messageId, and a timestamp of when it was created. Below is a diagram that shows the relationship between banners and messages: Additionally tokens are used to keep track of user's devices which is used by the Firebase Messaging Service to direct notifications.
 
 ![Database design diagram](/assets/DB-design.jpeg)
 
-Below is a sequence diagram of an example interaction between the mobile app and the database.
+Below is a sequence diagram of an example interaction between the mobile client, the IBM database and server and the Firebase messaging service.
 
 ![Database sequence diagram](/assets/sequence.png)
