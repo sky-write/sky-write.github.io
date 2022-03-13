@@ -61,4 +61,4 @@ Additional user stories:
 >
 > Wonderful work folks!
 
-\- John McNamara
+\- John McNamara, IBM

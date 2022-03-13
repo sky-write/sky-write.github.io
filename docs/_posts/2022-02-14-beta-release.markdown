@@ -40,3 +40,8 @@ Additional user stories:
 
 1. As a user, I want to be notified when there are new messages sent to my area, so that I can keep up to date with new messages.
 3. As a user, I want to be able to change my notification preferences, so that I don’t receive unwanted notifications.
+
+## Response from Client ##
+> ITS AMAAAAZING!!! It's nothing short of STELLAR. Well done and congratulations!!! If its possible to get some Watson into it (maybe just to read out the messages) that would be epic - and i can really shout about this at IBM.
+
+\- John McNamara, IBM
