@@ -20,7 +20,7 @@ The diagram below shows the relationships between the classes. For brevity, some
 
 ## Database Design ##
 
-A database is required to store data about messages and banners. Messages contain an id, a message to be displayed when sent, and an object file name which is where the data for 3D model is stored. Each banner represents a message which has been sent to a specific postcode. A banner contains a postcode, a messageId, and a timestamp of when it was created. Below is a diagram that shows the relationship between banners and messages: Additionally tokens are used to keep track of user's devices which is used by the Firebase Messaging Service to direct notifications.
+A database is required to store data about messages and banners. Messages contain an id, a message to be displayed when sent, and an object file name which is where the data for 3D model is stored. Each banner represents a message which has been sent to a specific postcode. A banner contains a postcode, a messageId, and a timestamp of when it was created. Below is a diagram that shows the relationship between banners and messages. Additionally, tokens are used to keep track of user's devices which is used by the Firebase Messaging Service to direct notifications.
 
 ![Database design diagram](/assets/DB-design.jpeg)
 
