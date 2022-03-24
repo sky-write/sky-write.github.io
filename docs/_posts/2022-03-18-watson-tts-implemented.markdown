@@ -14,7 +14,7 @@ We currently use the Lisa V3 voice to say the messages out loud, but we are cons
 
 Listen to the audio files here:
 <audio controls>
-    <source src="https://github.com/sky-write/sky-write.github.io/blob/gh-pages/docs/assets/audio/happy_birthday.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/sky-write/sky-write.github.io/gh-pages/docs/assets/audio/happy_birthday.mp3" type="audio/mpeg">
 </audio>
 
 If you are interested on using Watson Text-To-Speech yourself, read more here: <https://cloud.ibm.com/docs/text-to-speech?topic=text-to-speech-gettingStarted>
