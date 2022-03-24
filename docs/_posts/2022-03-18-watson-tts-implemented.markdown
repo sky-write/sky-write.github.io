@@ -12,4 +12,16 @@ This has been implemented by having the audio files bundled with the app, so the
 
 We currently use the Lisa V3 voice to say the messages out loud, but we are considering on implementing different voices and languages, but this is an optional feature for if we have time to implement it.
 
+Listen to the audio files here:
+<audio id="happy_birthday_audio"></audio>
+
 If you are interested on using Watson Text-To-Speech yourself, read more here: <https://cloud.ibm.com/docs/text-to-speech?topic=text-to-speech-gettingStarted>
+
+<script>
+    var source = document.createElement("source");
+    var audio = document.getElementById("happy_birthday_audio");
+    audio.appendChild(source);
+    source.setAttribute("src", "../assets/audio/happy_birthday.mp3");
+    source.setAttribute("type", "audio/mpeg");
+    audio.setAttribute("controls", "controls");
+</script>
