@@ -12,6 +12,8 @@ This has been implemented by having the audio files bundled with the app, so the
 
 We currently use the Lisa V3 voice to say the messages out loud, but we are considering on implementing different voices and languages, but this is an optional feature for if we have time to implement it.
 
+If you are interested on using Watson Text-To-Speech yourself, read more here: <https://cloud.ibm.com/docs/text-to-speech?topic=text-to-speech-gettingStarted>
+
 Listen to the audio files here:
 <table>
     <tr>
@@ -73,5 +75,3 @@ Listen to the audio files here:
         </td>
     </tr>
 <table>
-
-If you are interested on using Watson Text-To-Speech yourself, read more here: <https://cloud.ibm.com/docs/text-to-speech?topic=text-to-speech-gettingStarted>
