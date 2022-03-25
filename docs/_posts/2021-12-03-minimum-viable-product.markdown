@@ -27,7 +27,7 @@ The Notifications fragment is not implemented yet but in the future it will disp
 The Home fragment is where users can view the messages and take photos. It will search for a plane (i.e. the ground), and once a plane has been detected, the user can tap on the ground to place an anchor to keep the 3D message in place. Then the user can move their camera up to view the message in the sky. In the future the anchor will be automatically placed.
 
 ### Message ###
-The Message fragment is currently is not fully implemented but users will be able to send a message to a given postcode in the future. The user can currently click on a selection of messages and input a postcore. In the future, when the user presses send, it will store this in a database, for other users to then retrieve from.
+The Message fragment is currently is not fully implemented but users will be able to send a message to a given postcode in the future. The user can currently click on a selection of messages and input a postcode. In the future, when the user presses send, it will store this in a database, for other users to then retrieve from.
 
 ### Settings ###
 The Settings fragment is not implemented but in the future the user can change the settings such as theme and how frequently to update the messages.
