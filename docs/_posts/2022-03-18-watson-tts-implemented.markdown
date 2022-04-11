@@ -3,6 +3,8 @@ layout: post
 title:  "Watson Text-To-Speech Implemented"
 date:   2022-03-18 14:01:53 +0000
 ---
+*(Updated 2022-04-11 20:27:14 +0000: New audio files added for Happy New Year, Happy Mother's Day, Ramadan Kareem and Happy Diwali)*
+
 Hi again!
 
 We are excited to announce that we have implemented IBM's Watson Text-To-Speech into SkyWrite!
@@ -24,7 +26,7 @@ Listen to the audio files here:
         <td>Happy Birthday</td>
         <td>
             <audio controls>
-                <source src="https://raw.githubusercontent.com/sky-write/sky-write.github.io/gh-pages/docs/assets/audio/happy_birthday.mp3" type="audio/mpeg">
+                <source src="https://raw.githubusercontent.com/sky-write/sky-write.github.io/gh-pages/docs/assets/audio/happy-birthday.mp3" type="audio/mpeg">
                 Your browser does not support playing audio.
             </audio>
         </td>
@@ -33,7 +35,7 @@ Listen to the audio files here:
         <td>Merry Christmas</td>
         <td>
             <audio controls>
-                <source src="https://raw.githubusercontent.com/sky-write/sky-write.github.io/gh-pages/docs/assets/audio/merry_christmas.mp3" type="audio/mpeg">
+                <source src="https://raw.githubusercontent.com/sky-write/sky-write.github.io/gh-pages/docs/assets/audio/merry-christmas.mp3" type="audio/mpeg">
                 Your browser does not support playing audio.
             </audio>
         </td>
@@ -51,16 +53,16 @@ Listen to the audio files here:
         <td>Good luck</td>
         <td>
             <audio controls>
-                <source src="https://raw.githubusercontent.com/sky-write/sky-write.github.io/gh-pages/docs/assets/audio/good_luck.mp3" type="audio/mpeg">
+                <source src="https://raw.githubusercontent.com/sky-write/sky-write.github.io/gh-pages/docs/assets/audio/good-luck.mp3" type="audio/mpeg">
                 Your browser does not support playing audio.
             </audio>
         </td>
     </tr>
     <tr>
-        <td>Hope you feel better soon</td>
+        <td>Get well soon</td>
         <td>
             <audio controls>
-                <source src="https://raw.githubusercontent.com/sky-write/sky-write.github.io/gh-pages/docs/assets/audio/feel_better.mp3" type="audio/mpeg">
+                <source src="https://raw.githubusercontent.com/sky-write/sky-write.github.io/gh-pages/docs/assets/audio/get-well-soon.mp3" type="audio/mpeg">
                 Your browser does not support playing audio.
             </audio>
         </td>
@@ -69,7 +71,43 @@ Listen to the audio files here:
         <td>Thank you</td>
         <td>
             <audio controls>
-                <source src="https://raw.githubusercontent.com/sky-write/sky-write.github.io/gh-pages/docs/assets/audio/thank_you.mp3" type="audio/mpeg">
+                <source src="https://raw.githubusercontent.com/sky-write/sky-write.github.io/gh-pages/docs/assets/audio/thank-you.mp3" type="audio/mpeg">
+                Your browser does not support playing audio.
+            </audio>
+        </td>
+    </tr>
+    <tr>
+        <td>Happy New Year</td>
+        <td>
+            <audio controls>
+                <source src="https://raw.githubusercontent.com/sky-write/sky-write.github.io/gh-pages/docs/assets/audio/happy-new-year.mp3" type="audio/mpeg">
+                Your browser does not support playing audio.
+            </audio>
+        </td>
+    </tr>
+    <tr>
+        <td>Happy Mother's Day</td>
+        <td>
+            <audio controls>
+                <source src="https://raw.githubusercontent.com/sky-write/sky-write.github.io/gh-pages/docs/assets/audio/happy-mothers-day.mp3" type="audio/mpeg">
+                Your browser does not support playing audio.
+            </audio>
+        </td>
+    </tr>
+    <tr>
+        <td>Ramadan Kareem</td>
+        <td>
+            <audio controls>
+                <source src="https://raw.githubusercontent.com/sky-write/sky-write.github.io/gh-pages/docs/assets/audio/ramadan-kareem.mp3" type="audio/mpeg">
+                Your browser does not support playing audio.
+            </audio>
+        </td>
+    </tr>
+    <tr>
+        <td>Happy Diwali</td>
+        <td>
+            <audio controls>
+                <source src="https://raw.githubusercontent.com/sky-write/sky-write.github.io/gh-pages/docs/assets/audio/happy-diwali.mp3" type="audio/mpeg">
                 Your browser does not support playing audio.
             </audio>
         </td>
