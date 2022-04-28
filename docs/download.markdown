@@ -4,7 +4,9 @@ title: Download
 permalink: /download/
 ---
 
-  The SkyWrite downloads can be found here.
+The SkyWrite downloads can be found here.
+
+> **WARNING**: Please make sure you have a [compatible](https://developers.google.com/ar/devices) device!
 
 Build  | Release Date | Size
 ------ | ------------ | ----
