@@ -16,11 +16,25 @@ We are excited to showcase our Final Release and third demonstration of our appl
 
 ### Hashed Postcodes ###
 
+When a user sends a message to a postcode, it is first hashed by the client then sent to the database server to be stored. When a user's device checks if messages have been received, they will hash their own postcode and compare that with the contents of the database.
+
+This improves privacy significantly, making it impossible for us the developers and other users to read user postcodes directly.
+
 ### PBR Image Textures ###
+
+Another Improvement to the app is the use of PBR Image Textures in rendering the banners. AR Core supports roughness, metalness and ambient occlusion data to be encoded into the Red, Green and Blue channels of an image. This is then mapped onto a banner, making the lighting look much more realistic.
+
+For some of the banners, adding PBR image textures has created really subtle lighting improvements, but for others, there is a significant improvement. In particular, the balloons on Congratulations look a lot more realistic by being able to reflect a lot more light. Other significant improvements are the eyes on the Get Well Soon teddy bear and the snowman in Merry Christmas.
+
+![happy birthday banner](/assets/happy-birthday.png)
+*Comparison to show the effect of adding PRB Image Textures*
 
 ### UI Improvements ###
 
+### Watson TTS ###
+
 ## User Stories ##
+
 Previously, the following three user stories have been implemented in both the Minimum Viable Product (MVP) and the Beta Release:
  
 1. As a user, I want to use this app on my Android device.
