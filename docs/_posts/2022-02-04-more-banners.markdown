@@ -10,7 +10,7 @@ We are now working towards our beta release of Sky Write! One major development 
 ## Happy Birthday ##
 
 ![happy birthday banner](/assets/happy-birthday.png)
-*Is it a friends brithday? Send the happy birthday banner!*
+*Is it a friends birthday? Send the happy birthday banner!*
 
 ## Congratulations ##
 
@@ -25,4 +25,4 @@ We are now working towards our beta release of Sky Write! One major development 
 ## Thank You ##
 
 ![thank you banner](/assets/thank-you.png)
-*Let someone know that you appriciate what they have done for you*
+*Let someone know that you appreciate what they have done for you*
