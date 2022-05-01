@@ -31,7 +31,7 @@ For some of the banners, adding PBR image textures has created really subtle lig
 
 ![PBR Comparison](/assets/PBR-Comparison.png)
 
-Comparison to show the effect of adding PRB Image Textures*
+*Comparison to show the effect of adding PRB Image Textures*
 
 ### UI Improvements ###
 
