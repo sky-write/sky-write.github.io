@@ -30,7 +30,8 @@ Another improvement to the app is the use of PBR Image Textures in rendering the
 For some of the banners, adding PBR image textures has created really subtle lighting improvements, but for others, there is a significant improvement. In particular, the balloons on Congratulations look a lot more realistic by being able to reflect a lot more light. Other significant improvements are the eyes on the Get Well Soon teddy bear and the snowman in Merry Christmas.
 
 ![PBR Comparison](/assets/PBR-Comparison.png)
-*Comparison to show the effect of adding PRB Image Textures*
+
+Comparison to show the effect of adding PRB Image Textures*
 
 ### UI Improvements ###
 
