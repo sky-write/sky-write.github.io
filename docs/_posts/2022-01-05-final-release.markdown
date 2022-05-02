@@ -37,6 +37,8 @@ For some of the banners, adding PBR image textures has created really subtle lig
 
 As this is the final release for this project, the UI has been polished to a higher standard. In particular, the notifications and messages fragments now include a thumbnail alongside each banner and generally have a better layout. 
 
+The gallery fragment also have some improvements, with users now being able to delete and share pictures.
+
 ### IBM Watson TTS ###
 
 As a feature of high importance to our client, we have implemented Watson text to speech (TTS) which, when enabled, reads out the title of the banner when it appears on the app. This feature should improve accessibility to the app and could be particularly useful to people with visual impairments.  
